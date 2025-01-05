@@ -7262,7 +7262,7 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 7066e0747291df44fa5c2bf93bee3a6e, type: 3}
     - target: {fileID: 7066318515342206069, guid: 2362eb500770a8a429bb7e570cab6a37, type: 3}
       propertyPath: selectedDifficulty
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7066318515342206069, guid: 2362eb500770a8a429bb7e570cab6a37, type: 3}
       propertyPath: AnswersParent.Array.data[0]
