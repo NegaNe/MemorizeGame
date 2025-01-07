@@ -1,4 +1,6 @@
 # MemorizeGame
+A repetitive game i made to hone your memory!
+the game is plain and simple, you match each pair of the randomized color!
 
  <h2>Main Menu</h2>
  
